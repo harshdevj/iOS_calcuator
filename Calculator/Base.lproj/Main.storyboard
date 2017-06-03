@@ -29,6 +29,9 @@
                                 <state key="normal" title="0">
                                     <color key="titleColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
+                                <connections>
+                                    <action selector="number:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BYk-YK-9jl"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eoH-IQ-3It">
                                 <rect key="frame" x="188" y="574" width="93" height="93"/>
